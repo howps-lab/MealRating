@@ -1,0 +1,7 @@
+{
+  "name": "Meal Rating & Tracker",
+  "description": "Eat Well. Rate Every Bite! A cheerful, colorful web app for logging, rating, and tracking your delicious meals and food adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
